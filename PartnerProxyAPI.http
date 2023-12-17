@@ -1,0 +1,6 @@
+@PartnerProxyAPI_HostAddress = http://localhost:5027
+
+GET {{PartnerProxyAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
